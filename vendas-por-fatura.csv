@@ -1,4 +1,4 @@
-N° da fatura,Data da fatura,ID Cliente,País,Quantidade,Valor
+N° da fatura,Data da fatura,ID do Cliente,País,Quantidade,Valor
 548370,3/30/2021 16:14:00,15528,United Kingdom,123,"229,33"
 575767,11/11/2021 11:11:00,17348,United Kingdom,163,"209,73"
 C570727,10/12/2021 11:32:00,12471,Germany,-1,"-1,45"
